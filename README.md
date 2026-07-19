@@ -1,9 +1,9 @@
 # Tester
 
 <p align="center">
-  <a href="https://youtu.be/bFUgnFwK9Xw?si=R3j_-zhsefhF1yqx">
-    <img src="https://img.youtube.com/vi/R3j_-zhsefhF1yqx/0.jpg" width="600">
+  <a href="https://www.youtube.com/watch?v=bFUgnFwK9Xw">
+    <img src="https://img.youtube.com/vi/bFUgnFwK9Xw/0.jpg" width="600">
   </a>
 </p>
 
-[![Demo Video](https://img.youtube.com/vi/R3j_-zhsefhF1yqx/0.jpg)](https://youtu.be/bFUgnFwK9Xw?si=R3j_-zhsefhF1yqx)
+[![Demo Video](https://img.youtube.com/vi/bFUgnFwK9Xw/0.jpg)](https://www.youtube.com/watch?v=bFUgnFwK9Xw)
