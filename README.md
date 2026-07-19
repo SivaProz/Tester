@@ -1,3 +1,7 @@
 # Tester
 
-[![Home Page](https://github.com/SivaProz/Tester/blob/main/Staffing%20Status.png?raw=true)](https://github.com/user-attachments/assets/de5abd4e-aec2-4d5c-a2d3-393ddb27c132)
+<p align="center">
+  <a href="https://youtu.be/bFUgnFwK9Xw?si=R3j_-zhsefhF1yqx">
+    <img src="https://img.youtube.com/vi/R3j_-zhsefhF1yqx/maxresdefault.jpg" width="600">
+  </a>
+</p>
